@@ -12,6 +12,6 @@ Python
 Tkinter
 Requests
 AwesomeAPI
-🎯 Objetivo
 
-Aprender, experimentar e transformar curiosidade em prática. Esse projeto faz parte do meu processo contínuo de estudos na pós-graduação da PUC Minas e tem me mostrado como as coisas podem ser mais simples do que parecem.
+Para ter aceço ao código basta baixar o arquivo main.py e abrir ele em qualquer IDE. 
+Se quiser disponibilizei o executável também.
